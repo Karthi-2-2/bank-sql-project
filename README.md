@@ -15,3 +15,7 @@ Basic SQL project demonstrating Customers, Accounts, and Transactions tables.
 
 ## Author
 Karthikeyan
+
+## Output Preview
+
+![SQL Output](./output.png.jpeg)  
